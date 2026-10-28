@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-03-01",
-"ar": [
-    { "min": 0.0, "max": 0.05, "standard": 12.99, "low": 4.88 },
+  "updated_at": "2026-03",
+  "mx": [
+    { "min": 0, "max": 0.1, "standard": 4.20, "low": 1.78 }
+  ],
+  "br": [
+    { "min": 0, "max": 0.1, "standard": 5.40, "low": 1.85 }
+  ],
+  "cl": [],
+  "co": [],
+  "ar": [
+        { "min": 0.0, "max": 0.05, "standard": 12.99, "low": 4.88 },
     { "min": 0.05, "max": 0.1, "standard": 13.69, "low": 5.14 },
     { "min": 0.1, "max": 0.15, "standard": 14.43, "low": 5.32 },
     { "min": 0.15, "max": 0.2, "standard": 14.88, "low": 5.48 },
@@ -55,3 +63,4 @@
     { "min": 14.5, "max": 15.0, "standard": 206.55, "low": 206.55 },
     { "min": 15.0, "max": 99.0, "standard": 210.45, "low": 210.45 }
   ]
+}
